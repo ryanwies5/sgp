@@ -2,7 +2,6 @@ import Link from "next/link";
 import {
   Twitter,
   Github,
-  Linkedin,
   Instagram,
   Youtube,
   Facebook,

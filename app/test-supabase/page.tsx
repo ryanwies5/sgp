@@ -4,7 +4,7 @@ export default async function TestSupabase() {
   const supabase = await createClient();
 
   // Test the connection by getting some basic info
-  const { data, error } = await supabase
+  const { error } = await supabase
     .from("_realtime_schema")
     .select("*")
     .limit(1);

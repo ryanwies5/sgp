@@ -27,7 +27,7 @@ export function FeatureSection() {
               We specialize in creating powerful, responsive web applications
               that help businesses connect with their audience. Our team
               combines technical expertise with creative design to deliver
-              solutions that stand out in today's digital landscape.
+              solutions that stand out in today&apos;s digital landscape.
             </p>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
               <Button size="lg">Learn More</Button>
